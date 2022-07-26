@@ -21,4 +21,4 @@ But what about unstaged?
 
 I can see that when I modify this file and write git status, it reads that this file has been modified but is not yet staged to be committed. This is the MODIFIED state.
 		
-		
+July 25, 2022: I am making yet another change! 		

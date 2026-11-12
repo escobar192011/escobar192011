@@ -1,38 +1,26 @@
-
 # Juan M. Escobar
 
-### Mathematics Curriculum Designer | Assessment & Interactive Learning
+**Mathematics Curriculum Designer · Assessment Development · Interactive Learning**
 
-I'm a mathematics educator and curriculum-development leader with an M.S. in Mathematics and experience spanning secondary teaching, K–12 curriculum design, standards alignment, and mathematics assessment.
+I design mathematics learning experiences that connect rigorous content, clear explanations, and meaningful evidence of student understanding. My background combines an **M.S. in Mathematics**, secondary classroom teaching through **AP Calculus AB/BC**, and hands-on K–12 curriculum and assessment development.
 
-My work focuses on making mathematics more accessible through clear explanations, purposeful practice, rigorous assessments, and thoughtful instructional technology.
+### What I work on
+- **Mathematics content:** Algebra, Geometry, Precalculus, Calculus, learning progressions, and instructional explanations
+- **Assessment design:** standards-aligned questions, misconceptions, worked solutions, and formative feedback
+- **Interactive learning:** browser-based extensions of printable mathematics practice
+- **Content tooling:** LaTeX/TikZ, Python, Git/GitHub, and reusable publishing workflows
 
-### Areas of Focus
+### Selected projects
 
-- **Mathematics curriculum:** Algebra, Geometry, Precalculus, Calculus, and K–12 learning progressions
-- **Assessment design:** Standards-aligned questions, formative assessment, mathematical reasoning, and feedback
-- **Interactive learning:** Exploring browser-based mathematics activities and digital extensions of printable resources
-- **Curriculum systems:** Reusable content workflows, mathematical quality assurance, and instructional publishing
+**[Core Math Studio](https://coremathstudio.com)** — My independent mathematics curriculum initiative, focused on thoughtfully designed printable resources and their digital extensions.
 
-### Selected Work
-
-**Core Math Studio** — Independent mathematics curriculum project developing printable resources and exploring interactive digital learning experiences.
-
-Website: https://coremathstudio.com
-
-**Interactive Mathematics Portfolio** — In development. This collection will showcase original mathematical questions, instructional design decisions, and student-facing activities.
-
-### Tools
-
-Python · LaTeX · TikZ · Overleaf · Git/GitHub · HTML · Desmos · GeoGebra
+**[Mathematics Curriculum Design Portfolio](https://github.com/escobar192011/math-curriculum-design-portfolio)** — A curated set of original assessment and interactive-learning design examples. **Currently in development; public examples will be added after review.**
 
 ### Background
-
-- M.S. Mathematics — California State University, Los Angeles
-- B.A. Mathematics (Secondary Teaching) — Sonoma State University
-- Secondary mathematics teaching experience through AP Calculus AB/BC
+- **M.S., Mathematics** — California State University, Los Angeles
+- **B.A., Mathematics (Secondary Teaching)** — Sonoma State University
+- **Teaching:** Algebra I, Geometry, Precalculus Honors, and AP Calculus AB/BC
 
 ---
 
-*Interested in the intersection of mathematical rigor, effective instruction, and educational technology.*
-  
+*Interested in the intersection of mathematical rigor, clear communication, and thoughtful educational technology.*
